@@ -31,23 +31,23 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.owner = ['6282244877433']
+global.ownernomer = "6282244877433"
+global.premium = ['6282244877433']
+global.packname = '𝚂𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢'
+global.author = 'ᴅɪᴛ‘ᴢ_ʙᴏᴛ'
+global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: '✅Done',
+    success: '𝙨𝙪𝙠𝙨𝙚𝙨 𝙠𝙞𝙙𝙨',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: '𝙵𝚒𝚝𝚞𝚛 𝚔𝚑𝚞𝚜𝚞𝚜 𝚘𝚠𝚗𝚎𝚛',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygit = 'https://github.com/Adityarefandi'
+global.myyt = 'https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0
+global.myytv = 'https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0
+global.mygc = "https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0"
+global.botname = '𝙳𝚒𝚝‘𝚣_𝙱𝚘𝚝'
+global.akulaku = '𝚋𝚘𝚝 𝚋𝚢 𝓐𝓭𝓲𝓽𝔂𝓪 𝓡𝓮𝓯𝓪𝓷𝓭𝓲'
+global.ytname = '𝓐𝓭𝓲𝓽𝔂𝓪 𝓡𝓮𝓯𝓪𝓷𝓭𝓲'
 
 
 let file = require.resolve(__filename)
